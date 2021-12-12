@@ -1,0 +1,2 @@
+# CSC3040
+TTU Ethics
